@@ -16,6 +16,15 @@ body{
 .main-menu > a:hover{
     background-color: lightgray;
 }
+.main-menu > a:link{
+    color: black;
+    text-decoration: none;
+}
+.main-menu > a:visited{
+    color: black;
+    text-decoration: none;
+}
+
 
 .view{
     display: flex;
